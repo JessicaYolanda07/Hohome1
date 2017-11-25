@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">HoHome</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_venta">Venta</string>
+    <string name="title_activity_alquiler">Alquiler</string>
+    <string name="title_activity_anticretico">Anticretico</string>
+    <string name="title_activity_antigretico">Antigretico</string>
+    <string name="title_activity_proyecto">Proyecto</string>
+    <string name="title_activity_busqueda">Busqueda</string>
+</resources>

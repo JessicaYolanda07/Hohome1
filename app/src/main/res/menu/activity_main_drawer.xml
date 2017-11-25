@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_venta"
+            android:icon="@drawable/ic_chrome_reader_mode_black_24dp"
+            android:title="Venta" />
+        <item
+            android:id="@+id/nav_alquiler"
+            android:icon="@drawable/ic_place_black_24dp"
+            android:title="Alquiler" />
+        <item
+            android:id="@+id/nav_Antigretico"
+            android:icon="@drawable/ic_search_black_24dp"
+            android:title="Antigretico" />
+        <item
+            android:id="@+id/nav_proyecto"
+            android:icon="@drawable/ic_search_black_24dp"
+            android:title="Proyecto" />
+        <item
+            android:id="@+id/nav_busqueda"
+            android:icon="@drawable/ic_search_black_24dp"
+            android:title="Busqueda" />
+
+    </group>
+
+    <item android:title="Contactos">
+
+        <menu>
+            <item
+                android:id="@+id/nav_inicia_secion"
+                android:icon="@drawable/ic_border_color_black_24dp"
+                android:title="Inciciar" />
+            <item
+                android:id="@+id/nav_registrate"
+                android:icon="@drawable/ic_content_paste_black_24dp"
+                android:title="Registrate" />
+        </menu>
+    </item>
+
+</menu>
