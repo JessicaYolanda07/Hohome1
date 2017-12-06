@@ -1,4 +1,4 @@
-package com.example.usuario.hohome;
+package com.example.corei5.hohome;
 
 import android.os.Bundle;
 import android.support.design.widget.FloatingActionButton;
