@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "295674523385",
+    "project_id": "firebase-hohome1"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:295674523385:android:775f7f0eacbef7f2",
+        "android_client_info": {
+          "package_name": "com.example.corei5.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "295674523385-qoe0vh07cqbbg7p1j7ntso7jmo3i2h0o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.corei5.myapplication",
+            "certificate_hash": "942b284cf813b50cf7e02c6ca219327423e09d07"
+          }
+        },
+        {
+          "client_id": "295674523385-slun2rodd5nek1jqpv21a5s4p69ptdou.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAId2_JBP80pyEi07_f6DAFMlx19gif-G4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
